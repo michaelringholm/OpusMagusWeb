@@ -1,0 +1,29 @@
+* {
+	font-family: Calibri;
+	font-size: 10pt;
+	background-color: black;
+	color: orange;
+}
+
+h1 {
+	font-size: 22pt;
+}
+
+h1 {
+	font-size: 13pt;
+}
+
+a {
+	color: orange;
+	font-size: 18pt;
+}
+
+.widget {
+	width: 480px;
+	height: 260px;
+	float: left;
+	/*background-color: #cccccc;*/
+	margin: 18px;
+	border-radius: 8px;	
+}
+
