@@ -1,0 +1,9 @@
+# AWS CDK Core Libraries
+aws-cdk-lib>=2.0.0,<3.0.0
+constructs>=10.0.0,<11.0.0
+
+# Configuration Management
+python-dotenv>=0.20.0
+
+# Development and Utility Dependencies
+wheel>=0.37.0

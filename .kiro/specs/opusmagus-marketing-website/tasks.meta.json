@@ -1,0 +1,215 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "Python CDK project structure and stacks": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915048974
+      },
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915059962
+      },
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915234319
+      }
+    ],
+    "S3 bucket with security configurations": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915049189
+      },
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915238195
+      }
+    ],
+    "CloudFront distribution with caching and security headers": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915049374
+      },
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915238451
+      }
+    ],
+    "AWS Certificate Manager SSL/TLS certificate": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915049485
+      },
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915238841
+      }
+    ],
+    "AWS WAF Web ACL and rules": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915049592
+      },
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915239196
+      }
+    ],
+    "Route53 DNS records (if managed by CDK)": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915049705
+      }
+    ],
+    "CloudWatch logging and alarms": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915049805
+      },
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915239527
+      }
+    ],
+    "Pre-deployment validation scripts": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915049915
+      }
+    ],
+    "HTML pages (homepage, 404, optional detail pages)": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915050019
+      }
+    ],
+    "CSS stylesheet with responsive design": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915050127
+      }
+    ],
+    "JavaScript for interactivity (minimal, progressive enhancement)": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915050226
+      }
+    ],
+    "Optimized images (WebP + JPEG fallbacks, responsive sizes)": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915050340
+      }
+    ],
+    "Favicon and social media preview assets": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915050460
+      }
+    ],
+    "Asset deployment script": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915050560
+      }
+    ],
+    "Deployed infrastructure in AWS PROD account": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915050660
+      }
+    ],
+    "Website files in S3 bucket": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915050771
+      }
+    ],
+    "DNS records configured and resolving": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915050874
+      }
+    ],
+    "SSL/TLS certificate issued and active": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915050986
+      }
+    ],
+    "README.md with project overview and setup": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915051088
+      }
+    ],
+    "DEPLOYMENT.md with step-by-step deployment instructions": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915051196
+      }
+    ],
+    "CONTENT_UPDATES.md for content management": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915051298
+      }
+    ],
+    "TROUBLESHOOTING.md with common issues and solutions": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915051398
+      }
+    ],
+    "OPERATIONS.md with operational procedures": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915051496
+      }
+    ],
+    "ARCHITECTURE.md with technical architecture": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915051598
+      }
+    ],
+    "CONFIG_REFERENCE.md with configuration parameters": [
+      {
+        "executionId": "39c02cb8-ce1c-4cce-a389-d96820d22bc3",
+        "chatSessionId": "sess_3a26b9ed-f003-481b-bd8f-1f5bdc6de26b",
+        "timestamp": 1789915051722
+      }
+    ]
+  }
+}

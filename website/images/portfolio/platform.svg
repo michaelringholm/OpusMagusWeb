@@ -1,0 +1,10 @@
+<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="platform-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#d4af37;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="200" fill="url(#platform-grad)" />
+  <text x="150" y="100" font-size="32" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">Platform</text>
+</svg>
